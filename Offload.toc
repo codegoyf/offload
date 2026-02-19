@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: Offload
+## Notes: Automatically sells items below a set item level threshold when visiting a vendor.
+## Version: 1.0.0
+## Author: Offload
+## SavedVariables: OffloadDB
+
+Offload.lua
